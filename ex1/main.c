@@ -1,14 +1,14 @@
 /*
 
-Écrire un programme  qui demande l'âge d'un enfant et permet d'informer
-de sa catégorie sachant que les catégories sont les suivantes:
+ï¿½crire un programme  qui demande l'ï¿½ge d'un enfant et permet d'informer
+de sa catï¿½gorie sachant que les catï¿½gories sont les suivantes:
 "poussin de 6 a 7 ans"
 "pupille de 8 a 9 ans "
 "minime de 10 a 11 ans "
-" cadet après 12 ans ".
+" cadet aprï¿½s 12 ans ".
 ********************************  En Algorithme *************************************
                                                                                                                                                                                 Algorithme
-                    Variables age :réel
+                    Variables age :rï¿½el
                     Debut
                        Ecrire("Entrer votre age :")
                        Lire(age)
@@ -48,7 +48,7 @@ int main()
           printf(" Vous etes minime ");
 
           if( age >= 12 )
-          printf(" Vous etes Cadet ");
+          printf(" Vous etes caddette ");
 
 
 

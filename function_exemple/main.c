@@ -13,10 +13,10 @@ scanf("%d",&a);
 printf("entrer svp le deuxieme nombre :");
 scanf("%d",&b);
 
-printf("la valeur de a + b est : %d \n", add(a,b));
-printf("la valeur de a - b est : %d \n", mins(a,b));
-printf("la valeur de a * b est : %d \n", mult(a,b));
-printf("la valeur de a / b est : %.2f \n", divis(a,b));
+printf("la val de a + b est : %d \n", add(a,b));
+printf("la val de a - b est : %d \n", mins(a,b));
+printf("la val de a * b est : %d \n", mult(a,b));
+printf("la val de a / b est : %.2f \n", divis(a,b));
 
     return 0;
 }
