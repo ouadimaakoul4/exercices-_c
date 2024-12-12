@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1730907196 source:c:\users\hp\desktop\toto\categorie_joueur\main.c
+	<stdio.h>
+	<stdlib.h>
+

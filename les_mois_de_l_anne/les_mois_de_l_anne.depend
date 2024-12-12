@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1730908097 source:c:\users\hp\desktop\toto\les_mois_de_l_anne\main.c
+	<stdio.h>
+	<stdlib.h>
+

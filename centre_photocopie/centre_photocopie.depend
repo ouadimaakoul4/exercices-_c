@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1730825768 source:c:\users\hp\desktop\toto\centre_photocopie\main.c
+	<stdio.h>
+	<stdlib.h>
+
